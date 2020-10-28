@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CleanArchDemo</string>
+    <string name="text_view_customer">View Customer</string>
+    <string name="text_register_customer">Register Customer</string>
+    <string name="hint_enter_your_name">Enter your name</string>
+    <string name="hint_enter_your_dob">Enter your date of birth</string>
+    <string name="hint_enter_your_phone">Phone number</string>
+    <string name="hint_enter_postal_code">Postal code</string>
+    <string name="helper_char_digit">Minimum character 2, no digit allowed</string>
+    <string name="helper_age_restriction">Minimum age restriction 18 years</string>
+    <string name="helper_postal_code">4 digit postal code</string>
+    <string name="helper_phone_number">11 digit phone number</string>
+    <string name="hint_enter_post_office">Enter your post office</string>
+    <string name="hint_enter_thana">Enter your thana</string>
+    <string name="hint_enter_district">Enter your district</string>
+    <string name="text_registration_title">Registration Title</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_insertion_error">Couldn\'t add the customer.</string>
+    <string name="text_please_wait">Please wait</string>
+    <string name="customer_insertion_success">Successfully inserted the customer.</string>
+    <string name="text_okay">Okay</string>
+    <string name="text_error_fetch_customer">Error while fetching customer info</string>
+    <string name="text_customer_list">Customer List</string>
+</resources>
